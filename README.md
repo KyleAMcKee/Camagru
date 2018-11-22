@@ -1,1 +1,1 @@
-# social_network
+# Project to mimic the functionality of Instagram
